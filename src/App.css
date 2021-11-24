@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(199, 208, 222);
+}
+
+.header {
+    background-color: rgb(255 255 255);
+    padding: 0.5em;
+}
+
+.center-row {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.center-column {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.jumbotron-mg {
+    background-image: url(./assets/cats.jpg);
+    background-size: cover;
+    height: 396px;
+    margin-top: 2rem;
+}
+
+.push-spaces {
+    height: 100px;
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 30px;
+    /* fills out the jumbotron */
+    background-color: rgb(114, 183, 192);
+}
+
+.jumbotron .container {
+    border-radius: 1em;
+    padding: 0.5em;
+    max-width: 100%;
+    /* allows the jumbotron to adjust on smaller widths */
+    background-color: #222;
+}
+
+.jumbotron-head {
+    color: white;
+}
+
+.jumbotron-text {
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(114, 183, 192);
+    color: white;
+    text-align: center;
+}
+
+.transfer-main {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.transfer-card {
+    margin: 1em;
+    border-style: solid;
+    padding: 2em;
+    width: 50%;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.178);
+    border-radius: 1em;
+}
