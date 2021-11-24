@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/transfer-kittens-tokens-/static/css/main.d45a9a87.chunk.css",
-    "main.js": "/transfer-kittens-tokens-/static/js/main.67e3acb5.chunk.js",
-    "main.js.map": "/transfer-kittens-tokens-/static/js/main.67e3acb5.chunk.js.map",
-    "runtime-main.js": "/transfer-kittens-tokens-/static/js/runtime-main.82fddcf1.js",
-    "runtime-main.js.map": "/transfer-kittens-tokens-/static/js/runtime-main.82fddcf1.js.map",
-    "static/js/2.d1e29fb0.chunk.js": "/transfer-kittens-tokens-/static/js/2.d1e29fb0.chunk.js",
-    "static/js/2.d1e29fb0.chunk.js.map": "/transfer-kittens-tokens-/static/js/2.d1e29fb0.chunk.js.map",
-    "static/js/3.172e016e.chunk.js": "/transfer-kittens-tokens-/static/js/3.172e016e.chunk.js",
-    "static/js/3.172e016e.chunk.js.map": "/transfer-kittens-tokens-/static/js/3.172e016e.chunk.js.map",
-    "index.html": "/transfer-kittens-tokens-/index.html",
-    "static/css/main.d45a9a87.chunk.css.map": "/transfer-kittens-tokens-/static/css/main.d45a9a87.chunk.css.map",
-    "static/js/2.d1e29fb0.chunk.js.LICENSE.txt": "/transfer-kittens-tokens-/static/js/2.d1e29fb0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/transfer-kittens-tokens-/static/media/cats.028db52a.jpg",
-    "static/media/image.12c479f9.jpg": "/transfer-kittens-tokens-/static/media/image.12c479f9.jpg",
-    "static/media/logo.165ed9ec.png": "/transfer-kittens-tokens-/static/media/logo.165ed9ec.png"
+    "main.css": "/electrone901/near-nft-mint/static/css/main.31b814a5.chunk.css",
+    "main.js": "/electrone901/near-nft-mint/static/js/main.724b2445.chunk.js",
+    "main.js.map": "/electrone901/near-nft-mint/static/js/main.724b2445.chunk.js.map",
+    "runtime-main.js": "/electrone901/near-nft-mint/static/js/runtime-main.053c2041.js",
+    "runtime-main.js.map": "/electrone901/near-nft-mint/static/js/runtime-main.053c2041.js.map",
+    "static/js/2.d1e29fb0.chunk.js": "/electrone901/near-nft-mint/static/js/2.d1e29fb0.chunk.js",
+    "static/js/2.d1e29fb0.chunk.js.map": "/electrone901/near-nft-mint/static/js/2.d1e29fb0.chunk.js.map",
+    "static/js/3.172e016e.chunk.js": "/electrone901/near-nft-mint/static/js/3.172e016e.chunk.js",
+    "static/js/3.172e016e.chunk.js.map": "/electrone901/near-nft-mint/static/js/3.172e016e.chunk.js.map",
+    "index.html": "/electrone901/near-nft-mint/index.html",
+    "static/css/main.31b814a5.chunk.css.map": "/electrone901/near-nft-mint/static/css/main.31b814a5.chunk.css.map",
+    "static/js/2.d1e29fb0.chunk.js.LICENSE.txt": "/electrone901/near-nft-mint/static/js/2.d1e29fb0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/electrone901/near-nft-mint/static/media/cats.028db52a.jpg",
+    "static/media/image.12c479f9.jpg": "/electrone901/near-nft-mint/static/media/image.12c479f9.jpg",
+    "static/media/logo.165ed9ec.png": "/electrone901/near-nft-mint/static/media/logo.165ed9ec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82fddcf1.js",
+    "static/js/runtime-main.053c2041.js",
     "static/js/2.d1e29fb0.chunk.js",
-    "static/css/main.d45a9a87.chunk.css",
-    "static/js/main.67e3acb5.chunk.js"
+    "static/css/main.31b814a5.chunk.css",
+    "static/js/main.724b2445.chunk.js"
   ]
 }
